@@ -9,6 +9,7 @@ int main() {
     string reply;
     cin>>reply ;
     if (reply ="yes" || reply = "Yes" || reply=  "YES")
-    {C}
+    { cout << "Awwwwwww" ; }
+   
     return 0;
 }
