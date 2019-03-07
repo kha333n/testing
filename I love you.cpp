@@ -10,6 +10,10 @@ int main() {
     cin>>reply ;
     if (reply ="yes" || reply = "Yes" || reply=  "YES")
     { cout << "Awwwwwww" ; }
-   
+   if ( reply = "No" || reply = "no" || reply = "NO" )
+       {
+       cout << "UGH";
+       }
+     
     return 0;
 }
